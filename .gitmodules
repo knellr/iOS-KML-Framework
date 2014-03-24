@@ -1,3 +1,4 @@
 [submodule "TBXML"]
 	path = TBXML
 	url = git@github.com:/knellr/TBXML.git
+	branch = master
